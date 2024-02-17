@@ -9,7 +9,7 @@ I'm Nawodya Sandeepani Wickramarachchi.
 A Biochemist
 ------------
 
-![Here I Am](C:\Users\hp\Documents\GitHub\My_HS23738058.github.io\pic.jpeg)
+Portfolio e/pic.jpeg
 
 ### My Resume
 
