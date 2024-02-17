@@ -9,7 +9,7 @@ I'm Nawodya Sandeepani Wickramarachchi.
 A Biochemist
 ------------
 
-![Here I Am](C:\Users\hp\Desktop\SLIIT files\1sr sem\IT\pic.jpeg)
+![Here I Am](C:\Users\hp\Documents\GitHub\My_HS23738058.github.io\pic.jpeg)
 
 ### My Resume
 
@@ -129,7 +129,7 @@ Phone: + 94 763 924 558
 
 ### My youtube channel
 
- [![YouTube logo](C:\Users\hp\Desktop\SLIIT files\1sr sem\IT\youtube logo.jpg) Visit my YouTube channel](https://www.youtube.com/channel/UCcRSHUedF-NlpDK2m49mXDw)
+ [![YouTube logo](C:\Users\hp\Documents\GitHub\My_HS23738058.github.io\youtube logo.jpg) Visit my YouTube channel](https://www.youtube.com/channel/UCcRSHUedF-NlpDK2m49mXDw)
 
 ### Contact me via e-mail
 
