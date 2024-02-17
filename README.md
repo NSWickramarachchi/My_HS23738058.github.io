@@ -130,7 +130,7 @@ Phone: + 94 763 924 558
 
 ### My youtube channel
 
- [![YouTube logo](C:\Users\hp\Documents\GitHub\My_HS23738058.github.io\youtube logo.jpg) Visit my YouTube channel](https://www.youtube.com/channel/UCcRSHUedF-NlpDK2m49mXDw)
+ [![YouTube logo](Portfolio e/youtube logo.jpg) Visit my YouTube channel](https://www.youtube.com/channel/UCcRSHUedF-NlpDK2m49mXDw)
 
 ### Contact me via e-mail
 
