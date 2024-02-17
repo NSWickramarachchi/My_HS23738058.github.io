@@ -12,6 +12,7 @@ A Biochemist
 Portfolio e/pic.jpeg
 
 ### My Resume
+Portfolio e/IT ass.1 - MS Word -PDF.pdf
 
 ### ABOUT ME
 
