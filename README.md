@@ -12,7 +12,7 @@ A Biochemist
 
 ## Here I am
 
-![my image](Portfolio e/pic.jpeg)
+![](Portfolio e/pic.jpeg)
 
  
 
