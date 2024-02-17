@@ -9,7 +9,11 @@ I'm Nawodya Sandeepani Wickramarachchi.
 A Biochemist
 ------------
 
-![Alt Text](Portfolio e/IT ass.1 - MS Word -PDF.pdf)
+
+## Here I am
+
+![Alt Text](images/example.jpg)
+
  
 
 
@@ -36,7 +40,6 @@ I am an open minded, energetic and ambitious person. I have an ability to train,
 • Computer skills (MS WORD / POWER POINT/ EXCEL/ Photoshop … etc.)  
 • Problem solving skills
  
-
   Download PDF for my resume (cv)
 
 Download PDF
