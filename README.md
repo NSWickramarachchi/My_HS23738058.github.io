@@ -11,9 +11,6 @@ A Biochemist
 
 Portfolio e/pic.jpeg
 
-### My Resume
-Portfolio e/IT ass.1 - MS Word -PDF.pdf
-
 ### ABOUT ME
 
 I am an open minded, energetic and ambitious person. I have an ability to train, motivate, coach and lead a team. I am familiar with laboratory testing, data recording practices and safety procedures and willing to comply with all safety and quality controls. I like to collaborate with others, and excellent in working with others to achieve a certain objective on time. I am a person eager to learn and improve myself.
