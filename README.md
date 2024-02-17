@@ -9,7 +9,8 @@ I'm Nawodya Sandeepani Wickramarachchi.
 A Biochemist
 ------------
 
-Portfolio e/pic.jpeg
+ ![Alt Text](Portfolio e/pic.jpeg)
+
 
 ### ABOUT ME
 
@@ -35,8 +36,8 @@ I am an open minded, energetic and ambitious person. I have an ability to train,
 • Problem solving skills
 
 [UPLOAD](#contact "Hire Me")  
-[DOWNLOAD MY RESUME (CV)]
-  Download PDF
+
+  Download PDF for my resume (cv)
 
 Download PDF
 ============
@@ -62,7 +63,7 @@ Analytical and Physical Chemistry Laboratory ,Organic Chemistry Laboratory ,Labo
 
 #### 2013- 2023 Nalanda Girls’ Central Collage, Minuwangoda :-
 
-**Advanced Level - 2021  
+Advanced Level - 2021  
 Biology (S), Physics (C), Chemistry (C)  
   
   
@@ -113,10 +114,8 @@ It improved my understanding of scientific concepts and biological processes. It
 
 ### Contact
 
-Don't hesitate to contact me.
+Please contact me....
 =============================
-
-  
 
 Your message was sent, thank you!  
 
