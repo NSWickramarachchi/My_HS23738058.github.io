@@ -9,7 +9,8 @@ I'm Nawodya Sandeepani Wickramarachchi.
 A Biochemist
 ------------
 
- ![Alt Text](Portfolio e/pic.jpeg)
+ ![Alt Text](Binary file addedBIN +697 KB 
+Portfolio e/IT ass.1 - MS Word -PDF.pdf)
 
 
 ### ABOUT ME
