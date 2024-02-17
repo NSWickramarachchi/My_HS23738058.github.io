@@ -38,7 +38,16 @@ I am an open minded, energetic and ambitious person. I have an ability to train,
 • Problem solving skills
 
 [UPLOAD](#contact "Hire Me")  
-[DOWNLOAD MY RESUME (CV)]Portfolio e/IT ass.1 - MS Word -PDF.pdf
+[DOWNLOAD MY RESUME (CV)]
+  Download PDF
+
+Download PDF
+============
+
+Click the button below to download my cv:
+
+[Download PDF](Portfolio e/IT ass.1 - MS Word -PDF.pdf)
+
 
 ### EDUCATION
 
