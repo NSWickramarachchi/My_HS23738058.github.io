@@ -47,7 +47,7 @@ Download PDF
 
 Click the button below to download my cv:
 
-[Download PDF](Portfolio e/IT ass.1 - MS Word -PDF.pdf)
+[Download PDF]()Portfolio e/IT ass.1 - MS Word -PDF.pdf
 
 
 ### EDUCATION
